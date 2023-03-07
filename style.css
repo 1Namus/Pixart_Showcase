@@ -1,0 +1,28 @@
+p {
+    font-family: OCR A std, monospace;
+    font-size: 24px;
+}
+
+h1 {
+    font-family: OCR A std, monospace;
+    font-size: 48px;
+}
+
+body {
+    background: gray;
+    padding: 96px;
+    text-align: center;
+}
+
+.list_align {
+    text-align: left;
+    font-size: 24px;
+}
+
+.whisper {
+    font-size: 12px;
+}
+
+hr {
+    border-color: black;
+}
